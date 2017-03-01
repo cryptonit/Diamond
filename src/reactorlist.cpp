@@ -37,7 +37,7 @@ void CReactorDB::WriteReactorDB() {
      * Watch your thoughts, thoughts become words and words become actions.
      * Actions build character and character defines your destiny. AreTimes.com
      */
-    WriteReactorAddr(std::string("dTKsf6qD7BeVN7bNZpBM2M1iXfbrt5vvak"), REACTOR_START_TIME, -1, 15000);
+    WriteReactorAddr(std::string("dTKsf6qD7BeVN7bNZpBM2M1iXfbrt5vvak"), REACTOR_START_TIME, -1, 3000);
     /* The Steinmetz Pink.
      * Kishore Now That You Are One Of The Legends, May You Be Immortalized In
      * History. And Bring Hope To, Those Who Have Lost Hope.
